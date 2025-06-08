@@ -61,6 +61,18 @@
         "CAD",
         "Python"
       ]
+    },
+    {
+      "title": "User Service Template",
+      "description": "",
+      "image": "/projects/airfoil.png",
+      "link": "https://github.com/1nsomnes/User-Service-Template",
+      "tags": [
+        "Python",
+        "Flask",
+        "Docker",
+        "Microservices"
+      ]
     }
   ]
 }
