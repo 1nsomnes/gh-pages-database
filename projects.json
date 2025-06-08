@@ -73,6 +73,18 @@
         "Docker",
         "Microservices"
       ]
+    },
+    {
+      "title": "User Service TeTestmplate",
+      "description": "Full user service using Flask and MongoDB with authorization ",
+      "image": "https://1nsomnes.github.io/gh-pages-database/user-service-template.png",
+      "link": "https://github.com/1nsomnes/User-Service-Template",
+      "tags": [
+        "Python",
+        "Flask",
+        "Docker",
+        "Microservices"
+      ]
     }
   ]
 }
