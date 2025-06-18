@@ -2,6 +2,18 @@
   "title": "My Projects",
   "projects": [
     {
+      "title": "User Service Template",
+      "description": "Full user service using Flask and MongoDB with authorization ",
+      "image": "https://1nsomnes.github.io/gh-pages-database/user-service-template.png",
+      "link": "https://github.com/1nsomnes/User-Service-Template",
+      "tags": [
+        "Python",
+        "Flask",
+        "Docker",
+        "Microservices"
+      ]
+    },
+    {
       "title": "Sierpinskis Triangle",
       "description": "Emergence of order out of chaos",
       "image": "/projects/striangle.png",
@@ -60,18 +72,6 @@
         "Engineering",
         "CAD",
         "Python"
-      ]
-    },
-    {
-      "title": "User Service Template",
-      "description": "Full user service using Flask and MongoDB with authorization ",
-      "image": "https://1nsomnes.github.io/gh-pages-database/user-service-template.png",
-      "link": "https://github.com/1nsomnes/User-Service-Template",
-      "tags": [
-        "Python",
-        "Flask",
-        "Docker",
-        "Microservices"
       ]
     }
   ]
