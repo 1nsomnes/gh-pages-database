@@ -17,7 +17,7 @@
       "title": "Minimal Addiction Beater",
       "description": "Basic mobile phone app that allows you to track how long you've beat your addiction.",
       "image": "https://1nsomnes.github.io/gh-pages-database/min_add_beater.png",
-      "link": "https://github.com/1nsomnes/User-Service-Template",
+      "link": "https://github.com/1nsomnes/minimal_addiction_beater/",
       "tags": [
         "Flutter",
         "Dart",
@@ -28,7 +28,7 @@
       "title": "User Service Template",
       "description": "Full user service using Flask and MongoDB with authorization ",
       "image": "https://1nsomnes.github.io/gh-pages-database/user-service-template.png",
-      "link": "https://github.com/1nsomnes/minimal_addiction_beater/",
+      "link": "https://github.com/1nsomnes/User-Service-Template",
       "tags": [
         "Python",
         "Flask",
