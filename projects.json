@@ -2,10 +2,33 @@
   "title": "My Projects",
   "projects": [
     {
+      "title": "Lightify",
+      "description": "Spotify client that works like spotlight",
+      "image": "https://1nsomnes.github.io/gh-pages-database/lightify.png",
+      "link": "https://github.com/1nsomnes/Lightify",
+      "tags": [
+        "Flutter",
+        "Swift",
+        "Dart",
+        "Spotify API"
+      ]
+    },
+    {
+      "title": "Minimal Addiction Beater",
+      "description": "Basic mobile phone app that allows you to track how long you've beat your addiction.",
+      "image": "https://1nsomnes.github.io/gh-pages-database/min_add_beater.png",
+      "link": "https://github.com/1nsomnes/User-Service-Template",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "ISAR"
+      ]
+    },
+    {
       "title": "User Service Template",
       "description": "Full user service using Flask and MongoDB with authorization ",
       "image": "https://1nsomnes.github.io/gh-pages-database/user-service-template.png",
-      "link": "https://github.com/1nsomnes/User-Service-Template",
+      "link": "https://github.com/1nsomnes/minimal_addiction_beater/",
       "tags": [
         "Python",
         "Flask",
